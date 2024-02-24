@@ -27,4 +27,17 @@
             {
                 count++;
             }
+
+        string[] filteredArr = new string[count];
+        int index = 0;
+        foreach(string str in arr)
+        {
+            if(str.Lenght <= 3)
+            {
+               filteredArr[index] = str;
+               index++; 
+            }
+        }
+        return filteredArr;
+        
     }
