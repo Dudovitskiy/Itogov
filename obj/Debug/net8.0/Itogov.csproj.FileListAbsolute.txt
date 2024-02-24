@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.sourcelink.json
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\bin\Debug\net8.0\Itogov.exe
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\bin\Debug\net8.0\Itogov.deps.json
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\bin\Debug\net8.0\Itogov.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\bin\Debug\net8.0\Itogov.dll
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\bin\Debug\net8.0\Itogov.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.dll
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\refint\Itogov.dll
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\Itogov.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Учеба\Itogovay\Itogov\obj\Debug\net8.0\ref\Itogov.dll

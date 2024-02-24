@@ -2,8 +2,8 @@
 //длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, 
 //либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями,
 //лучше обойтись исключительно массивами.
-<<<<<<< HEAD
-using Sistem;
+
+using System;
 
 class Program
 {
@@ -11,7 +11,7 @@ class Program
     {
         string[] inputArr = { "Hello", "2", "world", ":-)" };
 
-        string[] filteredArr = filtrdArry(inputArr);
+        string[] filteredArr = filterArray(inputArr);
 
         Console.WriteLine("Новый Массив");
         foreach (string str in filteredArr)
@@ -20,28 +20,27 @@ class Program
         }
     }
 
-    static string[] filtrArray(string[] arr)
+    static string[] filterArray(string[] arr)
     {
         int count = 0;
         foreach (string str in arr)
-            if (str.Lenght <= 3)
+        {
+            if (str.Length <= 3)
             {
                 count++;
             }
-    }
+        }
 
-    string[] filteredArr = new string[count];
-    {
-    int index = 0;
-        foreach(string str in arr)
+        string[] filteredArr = new string[count];
+        int index = 0;
+        foreach (string str in arr)
         {
-            if(str.Lenght <= 3)
+            if (str.Length <= 3)
             {
-               filteredArr[index] = str;
-               index++; 
+                filteredArr[index] = str;
+                index++; 
             }
         }
-        return filteredArr;
-        
+        return filteredArr; 
     }
 }
