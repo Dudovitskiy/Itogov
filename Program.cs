@@ -7,7 +7,7 @@ using Sistem;
 
 class Program
 {
-    static void Main(string[]args)
+    static void Main(string[] args)
     {
         string[] inputArr = { "Hello", "2", "world", ":-)" };
 
@@ -18,60 +18,21 @@ class Program
         {
             Console.WriteLine(str);
         }
-
-
-
-
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     static string[] filtrArray(string[] arr)
     {
         int count = 0;
-        foreach(string str in arr)
+        foreach (string str in arr)
             if (str.Lenght <= 3)
             {
                 count++;
             }
-<<<<<<< HEAD
     }
->>>>>>> 2
-=======
 
-        string[] filteredArr = new string[count];
-        int index = 0;
+    string[] filteredArr = new string[count];
+    {
+    int index = 0;
         foreach(string str in arr)
         {
             if(str.Lenght <= 3)
@@ -83,4 +44,4 @@ class Program
         return filteredArr;
         
     }
->>>>>>> 3
+}
