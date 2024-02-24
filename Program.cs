@@ -7,7 +7,7 @@ using System;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] Itogovay)
     {
         string[] inputArr = { "Hello", "2", "world", ":-)" };
 

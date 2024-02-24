@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Itogov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10a75c348503f494d3d91652e3491abb6383ab5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff10cb2e36ab17bbdfd58b5e8e1d3848bf617892")]
 [assembly: System.Reflection.AssemblyProductAttribute("Itogov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Itogov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
